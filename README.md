@@ -23,7 +23,7 @@ The business objective is to predict the churn in the last (i.e. the ninth) mont
 7. Train and test split
 8. Scaling and encoding the features
     - Categorical columns (One hot multiclass encoding)
-9. Model Building  <br/>
+9. Model Building  <br/> (For evaluation metrics I used 'roc_auc')
     1. Models without PCA <br/>
         - Logistic Regression<br/>
         - Logistic Regression with RFE<br/>
