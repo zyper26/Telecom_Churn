@@ -23,5 +23,6 @@ The business objective is to predict the churn in the last (i.e. the ninth) mont
 7. Train and test split
 8. Scaling and encoding the features
     - Categorical columns (One hot multiclass encoding)
-9. Model Building
- 
+9. Model Building  <br/>
+    i. Models without PCA
+    ii. Models with PCA
