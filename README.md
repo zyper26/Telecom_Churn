@@ -24,13 +24,13 @@ The business objective is to predict the churn in the last (i.e. the ninth) mont
 8. Scaling and encoding the features
     - Categorical columns (One hot multiclass encoding)
 9. Model Building  <br/>
-    i. Models without PCA <br/>
+    1. Models without PCA <br/>
         - Logistic Regression<br/>
         - Logistic Regression with RFE<br/>
         - Random Forest Classifier<br/>
         - AdaBoost Classifier<br/>
         - SVM<br/>
-    ii. Models with PCA <br/>
+    2. Models with PCA <br/>
         - Logistic Regression<br/>
         - Random Forest Classifier<br/>
         - SVM<br/>
