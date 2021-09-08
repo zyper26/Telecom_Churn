@@ -6,3 +6,22 @@ To reduce customer churn, telecom companies need to predict which customers are 
 #### Business Objective
 
 The business objective is to predict the churn in the last (i.e. the ninth) month using the data (features) from the first three months. To do this task well, understanding the typical customer behaviour during churn will be helpful.
+
+
+# Steps:
+1. Loading data
+2. Data Preprocessing:
+    - Derive new features  
+    - Filter High-Value Customers (HVC)
+    - Tag churners and remove attributes of the churn phase
+3. Exploratory Data Analysis
+    - No variance columns
+    - Analye correlated features
+4. Mssing value treatment
+5. Feature engineering
+6. Handle outliers
+7. Train and test split
+8. Scaling and encoding the features
+    - Categorical columns (One hot multiclass encoding)
+9. Model Building
+ 
