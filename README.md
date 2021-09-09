@@ -35,4 +35,4 @@ The business objective is to predict the churn in the last (i.e. the ninth) mont
         - Random Forest Classifier<br/>
         - SVM<br/>
 10. Feature Importance of best models
-11. Recommendations
+11. Recommendations to minimise the churn customers.
