@@ -34,5 +34,5 @@ The business objective is to predict the churn in the last (i.e. the ninth) mont
         - Logistic Regression<br/>
         - Random Forest Classifier<br/>
         - SVM<br/>
-10. Feature Importance of best models
+10. Feature Importance of best models <br/>
 11. Recommendations to minimise the churn customers.
